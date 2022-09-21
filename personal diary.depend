@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1661903674 source:c:\users\a\documents\cyberdefense practice\c\personal diary\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
